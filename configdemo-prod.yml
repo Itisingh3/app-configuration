@@ -1,5 +1,5 @@
 build:
   id: 10101010
   version: 10000.2.4
-  name: "PROD-GIT-Production-Build"
+  name: "Updated PROD-GIT-Production-Build"
   type: "GIT Production Build"
