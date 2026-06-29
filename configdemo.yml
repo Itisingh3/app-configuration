@@ -1,5 +1,5 @@
 build:
-  id: 10101010
-  version: 10000.2.4
+  id: 10101034
+  version: 10.5.3
   name: "Default-GIT-Production-Build"
   type: "GIT Default Build"
